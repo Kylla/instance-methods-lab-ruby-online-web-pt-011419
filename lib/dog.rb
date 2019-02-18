@@ -3,3 +3,4 @@ end
 
 def sit 
   puts "sits"
+end
