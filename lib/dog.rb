@@ -1,4 +1,5 @@
 class Dog 
 end
 
-def 
+def sit 
+  puts "sits"
